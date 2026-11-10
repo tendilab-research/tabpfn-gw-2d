@@ -1,0 +1,11 @@
+# Pinned to the environment that produced the committed results.
+# The local TabPFN backend is the reproducible path; the cloud backend
+# resolves its model server-side and is therefore dated, not pinned.
+tabpfn==2.0.9
+tabpfn-client==0.3.1
+scikit-learn==1.6.1
+numpy==2.0.2
+pandas==2.3.3
+scipy
+matplotlib
+ase==3.26.0
