@@ -1,4 +1,4 @@
-# Beyond the Computed: Calibrated Quasiparticle Band Gaps for 3,500+ 2D Semiconductors
+# Beyond the Computed: Calibrated Quasiparticle Band Gaps for 2D Semiconductors
 
 Code and data release for the paper accepted at the **AI for Accelerated Materials Design (AI4Mat) workshop, NeurIPS 2026**.
 
@@ -6,7 +6,7 @@ Code and data release for the paper accepted at the **AI for Accelerated Materia
 
 ```bibtex
 @inproceedings{lee2026beyond,
-  title     = {Beyond the Computed: Calibrated Quasiparticle Band Gaps for 3,500+ 2D Semiconductors},
+  title     = {Beyond the Computed: Calibrated Quasiparticle Band Gaps for 2D Semiconductors},
   author    = {Lee, Jiwoo and Lee, Junyoung and Kim, Minseong and Yoon, Jinwon},
   booktitle = {NeurIPS 2026 Workshop on AI for Accelerated Materials Design (AI4Mat)},
   year      = {2026},
